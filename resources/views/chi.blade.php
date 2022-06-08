@@ -47,16 +47,7 @@
     <!-- Chi siamo -->
     <div class="container text-center">
         <h2>Chi siamo?</h2>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut optio et architecto. Ab sunt a ex alias nulla assumenda rem sequi quam labore nemo beatae eum, perferendis, illo, sit dicta?
-        Eaque error itaque hic, ab dolorum minima id reprehenderit ad deleniti dicta iste sed maiores non officia qui accusantium. Architecto sit beatae itaque quasi tempora natus consequatur aspernatur, id aperiam!
-        Minima at deserunt nihil error dolor ut veritatis veniam cupiditate voluptate repellat nulla pariatur incidunt, voluptatem nemo blanditiis modi maxime alias eligendi laborum, adipisci quod nam aliquid illum! Sed, consectetur?
-        Adipisci expedita optio aut iste magnam, ex consectetur similique architecto tempora deleniti ut eos veritatis cum. At, repellat? Animi necessitatibus eum velit optio ut saepe consequatur unde nihil veritatis numquam.
-        Sunt, ad libero. Labore et deleniti id facere porro nihil illo autem dolor accusamus exercitationem deserunt rem nemo odio odit cum, aut iusto, laudantium, dicta ut asperiores? Nemo, dolor enim.
-        Minima, officia voluptate? Quaerat quia architecto iste nesciunt. Ea, sint recusandae adipisci ut atque natus sequi, suscipit eaque, ipsam ipsum provident doloribus architecto? Eos cumque quis nulla recusandae rem vero?
-        Aliquid, optio commodi odit accusantium inventore laborum, ut, id eligendi debitis dolore praesentium dignissimos quae temporibus aliquam quas. Cum minus ipsum ad alias doloribus. Reprehenderit excepturi ex quasi aliquam sint!
-        Iure dolores ex magnam recusandae! Sed quam numquam ipsam, ratione atque enim earum deleniti inventore odio optio maxime quae debitis soluta qui unde ullam officiis? Iste nisi cupiditate odit iusto.
-        Consequatur, aliquid eum illum odio nihil odit repellendus sunt asperiores distinctio fugit fugiat voluptatibus a expedita architecto neque, obcaecati minima iusto beatae, alias quidem cupiditate assumenda ipsam voluptatum. Praesentium, sed?
-        Perferendis nemo deleniti enim aspernatur commodi molestias ad delectus pariatur sit dicta, molestiae velit maiores minima ut vero asperiores quis quaerat iusto maxime dignissimos quisquam quam quod nobis vitae. Beatae.</p>
+        <p>{{$text}}</p>
     </div>
 
 </body>

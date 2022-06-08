@@ -49,13 +49,13 @@
             </div>
         </div>
     </nav>
-    
+
     <!-- Jumbo -->
     <div class="card text-white">
         <img class="img-fluid" src="https://i.picsum.photos/id/1011/5472/3648.jpg?hmac=Koo9845x2akkVzVFX3xxAc9BCkeGYA9VRVfLE4f0Zzk" alt="">
         <div class="container card-img-overlay text-center fs-2">
-            <h2 class="card-title fw-bold">Benvenuti in Laravel</h2>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <h2 class="card-title fw-bold">{{$title}}</h2>
+            <p class="card-text">{{$paragrph}}</p>
         </div>
     </div>
 </body>
