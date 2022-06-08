@@ -33,7 +33,7 @@
                         <a class="nav-link" href="chi-siamo">Chi siamo?</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Dove siamo?</a>
+                        <a class="nav-link" href="dove-siamo">Dove siamo?</a>
                     </li>
                 </ul>
                 <form class="d-flex">

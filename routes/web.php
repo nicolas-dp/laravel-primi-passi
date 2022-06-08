@@ -24,3 +24,7 @@ Route::get('/home', function () {
 Route::get('/chi-siamo', function () {
     return view('chi');
 });
+
+Route::get('/dove-siamo', function () {
+    return view('dove');
+});
